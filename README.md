@@ -8,7 +8,7 @@ This repository contains **confidential and proprietary code and data**.
 
 ### Notice
 
-- **Code**: The source code for this project is confidential and not publicly available.
+- **Code**: The source code for this project is confidential and not publicly available
 - **Data**: All data files, configurations, and sensitive information are restricted.
 - **Access**: This repository is maintained for reference purposes only.
 
